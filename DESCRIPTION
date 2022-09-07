@@ -1,0 +1,10 @@
+Package: hdData360r
+Type: Package
+Title: A high-dimensional panel data compiler for governance, trade, and competitiveness indicators of World Bank Group platforms
+Version: 0.1.0
+Author: Marcell T. Kurbucz
+Maintainer: Marcell T. Kurbucz <kurbucz.marcell@wigner.hu>
+Description: The get_hdData360 function collects and preprocesses thousands of up-to-date annual governance, trade, and competitiveness indicators from World Bank Group platforms for all countries worldwide.
+License: GNU General Public License v3.0
+Encoding: UTF-8
+LazyData: true
