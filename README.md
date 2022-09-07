@@ -2,7 +2,7 @@
 A high-dimensional panel data compiler for governance, trade, and competitiveness indicators of World Bank Group platforms
 
 ## Description
-The get_hdData360 function collects and preprocesses thousands of up-to-date annual governance, trade, and competitiveness indicators from World Bank Group platforms for all countries worldwide.
+The *get_hdData360* function collects and preprocesses thousands of up-to-date annual governance, trade, and competitiveness indicators from World Bank Group platforms for all countries worldwide.
 
 ## Installation
 ```R
