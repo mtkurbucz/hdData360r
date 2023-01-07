@@ -1,0 +1,13 @@
+@article{KURBUCZ2023101297,
+  title = {hdData360r: A high-dimensional panel data compiler for governance, trade, and competitiveness indicators of World Bank Group platforms},
+  journal = {SoftwareX},
+  volume = {21},
+  pages = {101297},
+  year = {2023},
+  issn = {2352-7110},
+  doi = {https://doi.org/10.1016/j.softx.2022.101297},
+  url = {https://www.sciencedirect.com/science/article/pii/S2352711022002151},
+  author = {Marcell T. Kurbucz},
+  keywords = {Data compiler, Panel data, Spatial data, Governance, Trade, Competitiveness},
+  abstract = {The World Bank Group’s GovData360 and TCdata360 platforms are widely employed in socio-economic research. The thousands of governance, trade, and competitiveness indicators they contain served as the basis for much research in the field of economic, developmental, and cultural studies, coronavirus disease 2019-related research, and tourism, to state a few. The presented R package called hdData360r collects thousands of up-to-date annual indicators from these platforms for all countries worldwide. Furthermore, it allows missing value imputation with data from previous years, and optionally, it exports the generated dataset into tab-separated value (TSV) files. The hdData360r R package with a sample dataset it generates is available publicly on GitHub and Mendeley Data.}
+}
